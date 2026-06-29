@@ -12,7 +12,7 @@ The dashboard provides insights into revenue, occupancy, ADR, RevPAR, realizatio
 
 ### Executive Overview
 
-![Executive Overview](C:\project-rec\hospitality-analysis-1.png)
+![Executive Overview](Images/executive-overview)
 
 Key metrics:
 
@@ -35,7 +35,7 @@ Visualizations include:
 
 ### Property Analysis
 
-![Property Analysis](C:\project-rec\hospitality-analysis-2.png)
+![Property Analysis](Images/property-analysis)
 
 Provides detailed property-wise analysis including:
 
