@@ -12,7 +12,7 @@ The dashboard provides insights into revenue, occupancy, ADR, RevPAR, realizatio
 
 ### Executive Overview
 
-![Executive Overview](Images/executive-overview)
+![Executive Overview](Images/executive-overview.png)
 
 Key metrics:
 
@@ -35,7 +35,7 @@ Visualizations include:
 
 ### Property Analysis
 
-![Property Analysis](Images/property-analysis)
+![Property Analysis](Images/property-analysis.png)
 
 Provides detailed property-wise analysis including:
 
