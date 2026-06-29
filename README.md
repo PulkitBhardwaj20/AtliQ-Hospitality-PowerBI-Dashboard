@@ -12,7 +12,7 @@ The dashboard provides insights into revenue, occupancy, ADR, RevPAR, realizatio
 
 ### Executive Overview
 
-![Executive Overview](Images/Executive%20Overview.png)
+![Executive Overview](C:\project-rec\hospitality-analysis-1.png)
 
 Key metrics:
 
@@ -35,7 +35,7 @@ Visualizations include:
 
 ### Property Analysis
 
-![Property Analysis](Images/Property%20Analysis.png)
+![Property Analysis](C:\project-rec\hospitality-analysis-2.png)
 
 Provides detailed property-wise analysis including:
 
@@ -85,7 +85,7 @@ This project uses the AtliQ Hospitality dataset provided in the Codebasics Power
 **Pulkit Bhardwaj**
 
 LinkedIn:
-https://linkedin.com/in/pulkit-bhardwaj
+www.linkedin.com/in/pulkit-b-095377217
 
 GitHub:
-https://github.com/<your-username>
+https://github.com/PulkitBhardwaj20
