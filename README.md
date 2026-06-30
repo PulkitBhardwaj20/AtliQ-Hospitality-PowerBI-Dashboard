@@ -20,13 +20,25 @@ This project presents an interactive Power BI dashboard designed to analyze the 
 
 ---
 
+## Dashboard Demo
+
+### Executive Overview
+
+https://github.com/user-attachments/assets/87f2bdd2-8568-40aa-b1dc-f6b166ba3f19
+
+### Property Analysis
+
+https://github.com/user-attachments/assets/071027a3-3dec-4a7e-b426-901486401e00
+
+---
+
 ## Business Objectives
 
 - Monitor overall hotel performance through key business KPIs.
 - Compare revenue and occupancy across cities and properties.
 - Analyze booking trends and platform performance.
 - Track customer ratings and booking realization.
-- Enable management to make informed business decisions.
+- Support data-driven decision-making.
 
 ---
 
@@ -38,7 +50,7 @@ This project presents an interactive Power BI dashboard designed to analyze the 
 | RevPAR | Revenue per Available Room |
 | ADR | Average Daily Rate |
 | Occupancy % | Percentage of occupied rooms |
-| Realization % | Percentage of successfully realized bookings |
+| Realization % | Successfully realized bookings |
 | DSRN | Daily Sellable Room Nights |
 | DBRN | Daily Booked Room Nights |
 | DURN | Daily Utilized Room Nights |
@@ -50,34 +62,34 @@ This project presents an interactive Power BI dashboard designed to analyze the 
 
 ### Executive Overview
 
-- Business KPI summary
-- Revenue distribution by city
-- Weekly occupancy trend analysis
+- Executive KPI summary
+- Revenue analysis by city
+- Weekly occupancy trends
 - Booking platform contribution
-- Occupancy comparison by day type
-- Dynamic city comparison using Revenue, Occupancy, Average Rating, and RevPAR
-- Interactive slicers for city, property, booking status, platform, month, and week
+- Occupancy analysis by day type
+- Dynamic comparison of cities using Revenue, Occupancy, Average Rating, and RevPAR
+- Interactive slicers for property, city, booking status, platform, month, and week
 
 ### Property Analysis
 
-- Property-wise performance comparison
+- Property-level performance comparison
 - Revenue and RevPAR analysis
 - Occupancy and ADR comparison
 - Realization and cancellation analysis
-- Average customer ratings
-- Conditional formatting for quick performance assessment
+- Average customer rating analysis
+- Conditional formatting for performance evaluation
 
 ---
 
 ## Key Insights
 
-- Mumbai generated the highest revenue among all cities.
-- Occupancy remained relatively consistent across major cities, with Delhi showing the strongest occupancy performance.
-- Average customer ratings were closely aligned across cities, indicating consistent guest experiences.
-- RevPAR varied significantly between cities, highlighting differences in pricing and occupancy efficiency.
-- Weekend occupancy exceeded weekday occupancy, reflecting stronger leisure travel demand.
-- A small number of booking platforms contributed the majority of bookings, while direct offline bookings had the lowest share.
-- Several properties recorded cancellation rates above 24%, suggesting opportunities to improve booking realization and revenue retention.
+- Mumbai generated the highest overall revenue among all cities.
+- Occupancy remained consistently above 50%, with noticeable differences across properties.
+- Average customer ratings were relatively consistent across cities, indicating a stable guest experience.
+- RevPAR varied significantly between properties, highlighting differences in pricing and occupancy efficiency.
+- Weekend occupancy outperformed weekday occupancy, suggesting stronger leisure travel demand.
+- Online booking platforms contributed the majority of reservations, while direct offline bookings had the smallest share.
+- Several properties recorded cancellation rates above 24%, presenting opportunities to improve booking realization and reduce revenue loss.
 
 ---
 
@@ -97,7 +109,7 @@ This project presents an interactive Power BI dashboard designed to analyze the 
 - Data Transformation
 - Data Modeling
 - DAX Measures
-- Interactive Dashboard Design
+- Dashboard Design
 - Business Intelligence
 - KPI Development
 - Data Visualization
@@ -107,7 +119,7 @@ This project presents an interactive Power BI dashboard designed to analyze the 
 
 ## Repository Structure
 
-```
+```text
 AtliQ-Hospitality-PowerBI-Dashboard
 │
 ├── Dashboard/
@@ -124,6 +136,10 @@ AtliQ-Hospitality-PowerBI-Dashboard
 │   ├── executive-overview.png
 │   └── property-analysis.png
 │
+├── Videos/
+│   ├── executive-overview-demo.mp4
+│   └── property-analysis-demo.mp4
+│
 └── README.md
 ```
 
@@ -139,6 +155,5 @@ This project was developed using the AtliQ Hospitality dataset provided by Codeb
 
 **Pulkit Bhardwaj**
 
-GitHub: https://github.com/PulkitBhardwaj20
-
-LinkedIn: www.linkedin.com/in/pulkit-b-095377217
+- GitHub: https://github.com/PulkitBhardwaj20
+- LinkedIn: www.linkedin.com/in/pulkit-b-095377217
